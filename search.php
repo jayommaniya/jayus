@@ -34,10 +34,7 @@ $conn=mysqli_connect("localhost","root","","crud")or die("connection aborted");
 		<table border="1">
 			<thead>
 				<tr>
-					<th>no</th>
-					<th>name</th>
-					<th>address</th>
-					<th>mobile</th>
+					
 
 				</tr>
 			</thead>
