@@ -42,14 +42,7 @@
 <body>
 	<input id="input" class="google" type="search" autocomplete="off" spellcheck="false" aria-live="polite" placeholder="Search Google or type a URL">
 	<form method="post">
-		<label>Enter first name</label><br>
-		<input type="text" name="fname" id="fname"><br>
-		<label>Enter last name</label><br>
-		<input type="text" name="lname" id="lname"><br>
-		<label>Enter city</label><br>
-		<input type="text" name="city" id="city"><br>
-		<label>Enter mobile number</label><br>
-		<input type="text" name="mo"><br>
+		
 		<?php 
 		  if($update==true)
 		  { ?>
